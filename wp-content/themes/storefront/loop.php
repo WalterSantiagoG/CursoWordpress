@@ -18,11 +18,8 @@ while ( have_posts() ) : the_post();
 	 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
 	 */
 
-	 if (in_category('viajes',null)) {
-		get_template_part( 'content', 'viajes' );
-	 }else{
-		get_template_part( 'content', get_post_format() );
-	 }
+	 get_template_part( 'content', get_post_format() );
+	 
 
 endwhile;
 
