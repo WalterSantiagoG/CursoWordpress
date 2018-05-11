@@ -62,3 +62,106 @@ function viajes_init() {
 }
 
 add_action( 'init', 'viajes_init' );
+
+if(function_exists("register_field_group"))
+{
+	register_field_group(array (
+		'id' => 'acf_viaje-2',
+		'title' => 'Viaje',
+		'fields' => array (
+			array (
+				'key' => 'field_5af506322f90b',
+				'label' => 'Destino',
+				'name' => 'destino',
+				'type' => 'text',
+				'default_value' => '',
+				'placeholder' => '',
+				'prepend' => '',
+				'append' => '',
+				'formatting' => 'html',
+				'maxlength' => '',
+			),
+			array (
+				'key' => 'field_5af504d8dadf0',
+				'label' => 'Vacunas obligatorias',
+				'name' => 'vacunas_obligatorias',
+				'type' => 'text',
+				'default_value' => '',
+				'placeholder' => '',
+				'prepend' => '',
+				'append' => '',
+				'formatting' => 'html',
+				'maxlength' => '',
+			),
+			array (
+				'key' => 'field_5af5051fd601f',
+				'label' => 'Vacunas recomendadas',
+				'name' => 'vacunas_recomendadas',
+				'type' => 'text',
+				'default_value' => '',
+				'placeholder' => '',
+				'prepend' => '',
+				'append' => '',
+				'formatting' => 'html',
+				'maxlength' => '',
+			),
+			array (
+				'key' => 'field_5af5053b053a1',
+				'label' => 'Transporte local',
+				'name' => 'transporte_local',
+				'type' => 'text',
+				'default_value' => '',
+				'placeholder' => '',
+				'prepend' => '',
+				'append' => '',
+				'formatting' => 'html',
+				'maxlength' => '',
+			),
+			array (
+				'key' => 'field_5af50543053a2',
+				'label' => 'Peligrosidad',
+				'name' => 'peligrosidad',
+				'type' => 'select',
+				'choices' => array (
+					'baja' => 'Baja',
+					'media' => 'Media',
+					'alta' => 'Alta',
+					'muy alta' => 'Muy Alta',
+				),
+				'default_value' => '',
+				'allow_null' => 0,
+				'multiple' => 0,
+			),
+			array (
+				'key' => 'field_5af505a8053a3',
+				'label' => 'Moneda local',
+				'name' => 'moneda_local',
+				'type' => 'text',
+				'default_value' => '',
+				'placeholder' => '',
+				'prepend' => '',
+				'append' => '',
+				'formatting' => 'html',
+				'maxlength' => '',
+			),
+		),
+		'location' => array (
+			array (
+				array (
+					'param' => 'post_type',
+					'operator' => '==',
+					'value' => 'viaje',
+					'order_no' => 0,
+					'group_no' => 0,
+				),
+			),
+		),
+		'options' => array (
+			'position' => 'normal',
+			'layout' => 'no_box',
+			'hide_on_screen' => array (
+			),
+		),
+		'menu_order' => 0,
+	));
+}
