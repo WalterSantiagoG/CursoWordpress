@@ -1,6 +1,7 @@
 <?php
 
-function add_role_viajero()
+//Lo borramos de aquí, porque ya creamos un plugin con esta function
+/*function add_role_viajero()
 {
     //Para realizar modificaciones en un rol por ejemplo agregarle que pueda publicar posts (publish_posts), debemos primero eliminar el rol, para luego volver a crearlo
     remove_role( 'viajero' );
@@ -17,10 +18,10 @@ function add_role_viajero()
             edit_published_posts => true,
         ]
     );
-}
+}*/
  
 // add the simple_role
-add_action('init', 'add_role_viajero');
+//add_action('init', 'add_role_viajero');
 
 //Custom Post Types por codigo
 function viajes_init() {
