@@ -47,6 +47,7 @@ function viajes_init() {
         'public'            => true,
         'public_queryable'  => true,
         'show_ui'           => true,
+        'show_in_rest'      => true,//Se agrega esta línea para cuando consultemos la API REST WP http://localhost/CursoWordpress/wp-json/wp/v2/viaje no aparezca status 404, así como mostramos visualmente nuestros campos personalizados, de igual forma se muestra aquí en la API
         'show_in_menu'      => true,
         'query_var'         => true,
         'rewrite'           => array( 'slug' => 'viaje' ),
@@ -164,4 +165,58 @@ if(function_exists("register_field_group"))
 		),
 		'menu_order' => 0,
 	));
+}
+
+//REST API muestre los campos personalizados en nuestra app
+add_action('rest_api_init', 'register_custom_fields');
+
+function register_custom_fields()
+{
+    register_rest_field(
+        'viaje',
+        'destino',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+    register_rest_field(
+        'viaje',
+        'vacunas_obligatorias',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+    register_rest_field(
+        'viaje',
+        'vacunas_recomendadas',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+    register_rest_field(
+        'viaje',
+        'transporte_local',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+    register_rest_field(
+        'viaje',
+        'peligrosidad',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+    register_rest_field(
+        'viaje',
+        'moneda_local',
+        array(
+            'get_callback' => 'show_fields'
+        )
+    );
+
+}
+
+function show_fields( $object, $field_name, $request ) {
+  return get_post_meta( $object[ 'id' ], $field_name, true );
 }
