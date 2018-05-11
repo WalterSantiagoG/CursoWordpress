@@ -1,0 +1,86 @@
+0000.001 (0) Opened log file at time: Fri, 11 May 2018 03:51:08 +0000 on http://localhost/CursoWordpress
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.7 WP: 4.9.5 PHP: 7.1.15 (apache2handler, Windows NT SANTIAGO 10.0 build 16299 (Windows 10) i586) MySQL: 5.5.5 WPLANG: es_CO Server: Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/7.1.15 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31.7M | 2M) multisite: N openssl: OpenSSL 1.0.2n  7 Dec 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 158375.1 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 0 (schedule: unset)
+0000.017 (0) Semaphore (f, wp777_options) being initialised
+0000.025 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (f) time to 2018-05-11 03:51:08
+0000.037 (0) Semaphore lock (f) complete
+0000.046 (0) Backup run: resumption=0, nonce=d90403b73355, begun at=1526010668 (0s ago), job type=backup
+0000.050 (0) Scheduling a resumption (1) after 300 seconds (1526010968) in case this run gets aborted
+0000.062 (0) Checking if we have a zip executable available
+0000.067 (0) Creation of backups of directories: beginning
+0000.076 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.577 (0) Total entities for the zip file: 573 directories, 3457 files (0 skipped as non-modified), 54.9 MB
+0002.099 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.963 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 MB, 193 (193) files added so far); re-opening (prior size: 0 KB)
+0003.774 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 200 files added (on-disk size: 2264.4 KB)
+0005.424 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 300 files added (on-disk size: 2264.4 KB)
+0005.470 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 400 files added (on-disk size: 2264.4 KB)
+0005.515 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 500 files added (on-disk size: 2264.4 KB)
+0005.562 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 600 files added (on-disk size: 2264.4 KB)
+0005.604 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 3457 files batched, 501 (694) added so far); re-opening (prior size: 2264.4 KB)
+0007.488 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 700 files added (on-disk size: 7031 KB)
+0007.533 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 800 files added (on-disk size: 7031 KB)
+0007.578 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 900 files added (on-disk size: 7031 KB)
+0007.622 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1000 files added (on-disk size: 7031 KB)
+0007.669 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1100 files added (on-disk size: 7031 KB)
+0007.714 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 3457 files batched, 501 (1195) added so far); re-opening (prior size: 7031 KB)
+0008.145 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1200 files added (on-disk size: 8294.5 KB)
+0008.190 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1300 files added (on-disk size: 8294.5 KB)
+0008.238 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1400 files added (on-disk size: 8294.5 KB)
+0008.282 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1500 files added (on-disk size: 8294.5 KB)
+0008.327 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1600 files added (on-disk size: 8294.5 KB)
+0008.843 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 3457 files batched, 501 (1696) added so far); re-opening (prior size: 8294.5 KB)
+0009.511 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1700 files added (on-disk size: 9850.8 KB)
+0010.251 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1800 files added (on-disk size: 9850.8 KB)
+0011.036 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 1900 files added (on-disk size: 9850.8 KB)
+0011.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 297 (1993) files added so far); re-opening (prior size: 9850.8 KB)
+0012.503 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2000 files added (on-disk size: 10900.2 KB)
+0014.590 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2100 files added (on-disk size: 10900.2 KB)
+0014.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 198 (2191) files added so far); re-opening (prior size: 10900.2 KB)
+0015.247 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2200 files added (on-disk size: 11810.6 KB)
+0015.289 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2300 files added (on-disk size: 11810.6 KB)
+0015.333 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2400 files added (on-disk size: 11810.6 KB)
+0015.375 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2500 files added (on-disk size: 11810.6 KB)
+0015.424 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2600 files added (on-disk size: 11810.6 KB)
+0015.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.3 MB, 3457 files batched, 501 (2692) added so far); re-opening (prior size: 11810.6 KB)
+0017.462 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2700 files added (on-disk size: 16316 KB)
+0017.508 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2800 files added (on-disk size: 16316 KB)
+0017.554 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 2900 files added (on-disk size: 16316 KB)
+0017.603 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 3000 files added (on-disk size: 16316 KB)
+0017.651 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 3100 files added (on-disk size: 16316 KB)
+0017.694 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 3457 files batched, 501 (3193) added so far); re-opening (prior size: 16316 KB)
+0018.350 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 3200 files added (on-disk size: 17257.5 KB)
+0018.401 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 3300 files added (on-disk size: 17257.5 KB)
+0018.468 (0) Zip: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip.tmp: 3400 files added (on-disk size: 17257.5 KB)
+0019.443 (0) Created plugins zip (0) - 18404.3 KB in 19.4 s (950.9 KB/s) (sha1: 5fefb41d4819ac99d2bb6831ff3453e87d57429d, sha256: 409ed56913ccdbe5246ed2fcc2047385c978869791dd8d57f62666c20865adfb)
+0019.447 (0) No backup of themes: excluded by user's options
+0019.449 (0) No backup of uploads: excluded by user's options
+0019.452 (0) No backup of others: excluded by user's options
+0019.462 (0) Saving backup status to database (elements: 2)
+0019.468 (0) No database backup (wp) - not part of this run
+0019.475 (0) backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.477 (0) Saving backup history. Total backup size: 18 MB
+0019.485 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0019.494 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0019.497 (0) No remote despatch: user chose no remote backup service
+0019.502 (0) Recording as successfully uploaded: backup_2018-05-11-0351_En_Platzi_Comes_d90403b73355-plugins.zip (e0be1f8e1ca053ac2b4777ad9f710caf)
+0019.517 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0019.520 (0) Number of backup sets in history: 2; groups (db): 1
+0019.523 (0) Examining (for databases) backup set with group_id=0, nonce=d90403b73355, datestamp=1526010668 (May 11 2018 03:51:08)
+0019.525 (0) Examining (for databases) backup set with group_id=0, nonce=5195613edcf5, datestamp=1526010624 (May 11 2018 03:50:24)
+0019.525 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.527 (0) Number of backup sets in history: 2; groups (files): 1
+0019.530 (0) Examining (for files) backup set with nonce=d90403b73355, datestamp=1526010668 (May 11 2018 03:51:08)
+0019.530 (0) This backup set is the backup set just made, so will not be deleted.
+0019.532 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0019.535 (0) Examining (for files) backup set with nonce=5195613edcf5, datestamp=1526010624 (May 11 2018 03:50:24)
+0019.535 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0019.537 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0019.543 (0) Resume backup (d90403b73355, 0): finish run
+0019.550 (0) Decremented the semaphore (f) by 1
+0019.554 (0) Semaphore (f) unlocked
+0019.557 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0019.564 (0) No email will/can be sent - the user has not configured an email address.
+0019.567 (0) The backup apparently succeeded and is now complete
