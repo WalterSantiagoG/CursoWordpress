@@ -6,13 +6,12 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://localhost/CursoWordpress/xmlrpc.php">
 
-<title>En platzi comes &#8211; Un sitio de gastronomía y viajes </title>
+<title>Noticias &#8211; En platzi comes</title>
 <meta name='robots' content='noindex,follow' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="En platzi comes &raquo; Feed" href="http://localhost/CursoWordpress/feed/" />
 <link rel="alternate" type="application/rss+xml" title="En platzi comes &raquo; RSS de los comentarios" href="http://localhost/CursoWordpress/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="En platzi comes &raquo; Página de ejemplo RSS de los comentarios" href="http://localhost/CursoWordpress/pagina-ejemplo/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/CursoWordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -264,10 +263,6 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/CursoWordpress/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/CursoWordpress/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.5" />
-<link rel="canonical" href="http://localhost/CursoWordpress/" />
-<link rel='shortlink' href='http://localhost/CursoWordpress/' />
-<link rel="alternate" type="application/json+oembed" href="http://localhost/CursoWordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2FCursoWordpress%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://localhost/CursoWordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2FCursoWordpress%2F&#038;format=xml" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
 <style type="text/css" media="screen">
@@ -280,7 +275,7 @@ img.emoji {
 </style>
 </head>
 
-<body class="home page-template-default page page-id-2 logged-in admin-bar no-customize-support wp-custom-logo group-blog no-wc-breadcrumb right-sidebar">
+<body class="blog logged-in admin-bar no-customize-support wp-custom-logo group-blog no-wc-breadcrumb right-sidebar">
 
 
 <div id="page" class="hfeed site">
@@ -290,14 +285,15 @@ img.emoji {
 		<div class="col-full">		<a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
 		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 				<div class="site-branding">
-			<h1 class="logo"><a href="http://localhost/CursoWordpress/" class="custom-logo-link" rel="home" itemprop="url"><img width="323" height="110" src="http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi.png" class="custom-logo" alt="En platzi comes" itemprop="logo" srcset="http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi.png 323w, http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi-300x102.png 300w" sizes="(max-width: 323px) 100vw, 323px" /></a></h1>		</div>
+			<a href="http://localhost/CursoWordpress/" class="custom-logo-link" rel="home" itemprop="url"><img width="323" height="110" src="http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi.png" class="custom-logo" alt="En platzi comes" itemprop="logo" srcset="http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi.png 323w, http://localhost/CursoWordpress/wp-content/uploads/2018/05/cropped-platzi-300x102.png 300w" sizes="(max-width: 323px) 100vw, 323px" /></a>		</div>
 		</div><div class="storefront-primary-navigation"><div class="col-full">		<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Navigation">
 		<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menu</span></button>
-			<div class="primary-navigation"><ul id="menu-cabecera" class="menu"><li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-63"><a href="http://localhost/CursoWordpress/">Inicio</a></li>
-<li id="menu-item-65" class="menu-item menu-item-type-post_type_archive menu-item-object-viaje menu-item-65"><a href="http://localhost/CursoWordpress/viaje/">Viajes</a></li>
+			<div class="primary-navigation"><ul id="menu-cabecera" class="menu"><li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-63"><a href="http://localhost/CursoWordpress/">Inicio</a></li>
 <li id="menu-item-66" class="menu-item menu-item-type-post_type_archive menu-item-object-ruta menu-item-66"><a href="http://localhost/CursoWordpress/ruta/">Rutas</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type_archive menu-item-object-viaje menu-item-65"><a href="http://localhost/CursoWordpress/viaje/">Viajes</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-73 current_page_item current_page_parent menu-item-75"><a href="http://localhost/CursoWordpress/noticias/">Noticias</a></li>
 </ul></div><div class="menu"><ul>
-<li class="current_page_item"><a href="http://localhost/CursoWordpress/">Inicio</a></li><li class="page_item page-item-13 page_item_has_children"><a href="http://localhost/CursoWordpress/membership-join/">Join Us</a>
+<li ><a href="http://localhost/CursoWordpress/">Inicio</a></li><li class="page_item page-item-13 page_item_has_children"><a href="http://localhost/CursoWordpress/membership-join/">Join Us</a>
 <ul class='children'>
 	<li class="page_item page-item-14"><a href="http://localhost/CursoWordpress/membership-join/membership-registration/">Registration</a></li>
 </ul>
@@ -308,6 +304,7 @@ img.emoji {
 	<li class="page_item page-item-16"><a href="http://localhost/CursoWordpress/membership-login/membership-profile/">Profile</a></li>
 </ul>
 </li>
+<li class="page_item page-item-73 current_page_item"><a href="http://localhost/CursoWordpress/noticias/">Noticias</a></li>
 </ul></div>
 		</nav><!-- #site-navigation -->
 		</div></div>
@@ -321,18 +318,94 @@ img.emoji {
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
-			
-<article id="post-2" class="post-2 page type-page status-publish hentry">
+		
+<article id="post-22" class="post-22 post type-post status-publish format-standard hentry category-sin-categoria">
+
 			<header class="entry-header">
-			<h1 class="entry-title">Página de ejemplo</h1>		</header><!-- .entry-header -->
+		<span class="posted-on">Posted on <a href="http://localhost/CursoWordpress/2018/05/10/publicar-como-viajero/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-10T23:44:08+00:00">10 Mayo, 2018</time></a></span><h2 class="alpha entry-title"><a href="http://localhost/CursoWordpress/2018/05/10/publicar-como-viajero/" rel="bookmark">Publicar como viajero</a></h2>		</header><!-- .entry-header -->
+				<aside class="entry-meta">
+						<div class="vcard author">
+				<img alt='' src='http://1.gravatar.com/avatar/af4c292f3e7f064c0ee3b80789b88486?s=128&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/af4c292f3e7f064c0ee3b80789b88486?s=256&#038;d=mm&#038;r=g 2x' class='avatar avatar-128 photo' height='128' width='128' /><div class="label">Written by</div><a href="http://localhost/CursoWordpress/author/viajero/" class="url fn" rel="author">Viajero</a>			</div>
+							<div class="cat-links">
+					<div class="label">Posted in</div><a href="http://localhost/CursoWordpress/category/sin-categoria/" rel="category tag">Sin categoría</a>				</div>
+			
+			
+		
+							<div class="comments-link">
+					<div class="label">Comments</div>					<span class="comments-link"><a href="http://localhost/CursoWordpress/2018/05/10/publicar-como-viajero/#respond">Leave a comment</a></span>
+				</div>
+					</aside>
 				<div class="entry-content">
-			<p>Esta es una página de ejemplo, Es diferente a una entrada de un blog porque se mantiene estática y se mostrará en la barra de navegación (en la mayoría de temas). Casi todo el mundo comienza con una página Sobre mí para presentarse a los potenciales visitantes. Podría ser algo así: </p>
-<blockquote><p>¡Hola!: Soy mensajero por el día, aspirante a actor por la noche y esta es mi web. Vivo en Madrid, tengo perrazo llamado Juan y me encantan las piñas coladas (y que me pille un chaparrón)</p></blockquote>
-<p> … o algo así: </p>
-<blockquote><p>La empresa Calcetines XYZ se fundó en 1971, y ha estado produciendo calcetines de calidad para sus clientes desde entonces. Ubicada en Gothan, la empresa XYZ tiene más de 2.000 empleados e intenta ayudar en lo que puede para mejorar la vida en Gothan</p></blockquote>
-<p> Si eres nuevo en WordPress deberías ir a <a href="http://localhost/CursoWordpress/wp-admin/">tu escritorio</a> para borrar esta página y crear algunas nuevas con tu contenido. ¡Pásalo bien!</p>
-					</div><!-- .entry-content -->
-		</article><!-- #post-## -->
+		<p>Esto es una publicación de un viajero.</p>
+		</div><!-- .entry-content -->
+		
+</article><!-- #post-## -->
+
+<article id="post-18" class="post-18 post type-post status-publish format-standard hentry category-sin-categoria">
+
+			<header class="entry-header">
+		<span class="posted-on">Posted on <a href="http://localhost/CursoWordpress/2018/05/10/contenido-protegido/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-10T22:56:56+00:00">10 Mayo, 2018</time></a></span><h2 class="alpha entry-title"><a href="http://localhost/CursoWordpress/2018/05/10/contenido-protegido/" rel="bookmark">Contenido protegido</a></h2>		</header><!-- .entry-header -->
+				<aside class="entry-meta">
+						<div class="vcard author">
+				<img alt='' src='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=128&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=256&#038;d=mm&#038;r=g 2x' class='avatar avatar-128 photo' height='128' width='128' /><div class="label">Written by</div><a href="http://localhost/CursoWordpress/author/admin/" class="url fn" rel="author">admin</a>			</div>
+							<div class="cat-links">
+					<div class="label">Posted in</div><a href="http://localhost/CursoWordpress/category/sin-categoria/" rel="category tag">Sin categoría</a>				</div>
+			
+			
+		
+							<div class="comments-link">
+					<div class="label">Comments</div>					<span class="comments-link"><a href="http://localhost/CursoWordpress/2018/05/10/contenido-protegido/#respond">Leave a comment</a></span>
+				</div>
+					</aside>
+				<div class="entry-content">
+		<p>Contenido</p>
+		</div><!-- .entry-content -->
+		
+</article><!-- #post-## -->
+
+<article id="post-5" class="post-5 post type-post status-publish format-standard hentry category-viajes">
+
+			<header class="entry-header">
+		<span class="posted-on">Posted on <a href="http://localhost/CursoWordpress/2018/05/10/mi-viaje-a-bogota/" rel="bookmark"><time class="entry-date published" datetime="2018-05-10T18:15:45+00:00">10 Mayo, 2018</time> <time class="updated" datetime="2018-05-10T18:16:36+00:00">10 Mayo, 2018</time></a></span><h2 class="alpha entry-title"><a href="http://localhost/CursoWordpress/2018/05/10/mi-viaje-a-bogota/" rel="bookmark">Mi viaje a Bogotá</a></h2>		</header><!-- .entry-header -->
+				<aside class="entry-meta">
+						<div class="vcard author">
+				<img alt='' src='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=128&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=256&#038;d=mm&#038;r=g 2x' class='avatar avatar-128 photo' height='128' width='128' /><div class="label">Written by</div><a href="http://localhost/CursoWordpress/author/admin/" class="url fn" rel="author">admin</a>			</div>
+							<div class="cat-links">
+					<div class="label">Posted in</div><a href="http://localhost/CursoWordpress/category/viajes/" rel="category tag">viajes</a>				</div>
+			
+			
+		
+							<div class="comments-link">
+					<div class="label">Comments</div>					<span class="comments-link"><a href="http://localhost/CursoWordpress/2018/05/10/mi-viaje-a-bogota/#respond">Leave a comment</a></span>
+				</div>
+					</aside>
+				<div class="entry-content">
+		<p>Que he encontrado en esta tierra.</p>
+		</div><!-- .entry-content -->
+		
+</article><!-- #post-## -->
+
+<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-sin-categoria">
+
+			<header class="entry-header">
+		<span class="posted-on">Posted on <a href="http://localhost/CursoWordpress/2018/05/10/hola-mundo/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-10T16:48:23+00:00">10 Mayo, 2018</time></a></span><h2 class="alpha entry-title"><a href="http://localhost/CursoWordpress/2018/05/10/hola-mundo/" rel="bookmark">¡Hola mundo!</a></h2>		</header><!-- .entry-header -->
+				<aside class="entry-meta">
+						<div class="vcard author">
+				<img alt='' src='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=128&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=256&#038;d=mm&#038;r=g 2x' class='avatar avatar-128 photo' height='128' width='128' /><div class="label">Written by</div><a href="http://localhost/CursoWordpress/author/admin/" class="url fn" rel="author">admin</a>			</div>
+							<div class="cat-links">
+					<div class="label">Posted in</div><a href="http://localhost/CursoWordpress/category/sin-categoria/" rel="category tag">Sin categoría</a>				</div>
+			
+			
+		
+							<div class="comments-link">
+					<div class="label">Comments</div>					<span class="comments-link"><a href="http://localhost/CursoWordpress/2018/05/10/hola-mundo/#comments">1 Comment</a></span>
+				</div>
+					</aside>
+				<div class="entry-content">
+		<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!</p>
+		</div><!-- .entry-content -->
+		
+</article><!-- #post-## -->
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
@@ -369,7 +442,7 @@ img.emoji {
 </li>
 		</ul>
 </div><div id="meta-2" class="widget widget_meta"><span class="gamma widget-title">Meta</span>			<ul>
-			<li><a href="http://localhost/CursoWordpress/wp-admin/">Administrador del sitio</a></li>			<li><a href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=9f3f4ec5f5">Desconectar</a></li>
+			<li><a href="http://localhost/CursoWordpress/wp-admin/">Administrador del sitio</a></li>			<li><a href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=96ba14c2fe">Desconectar</a></li>
 			<li><a href="http://localhost/CursoWordpress/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
 			<li><a href="http://localhost/CursoWordpress/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
 			<li><a href="https://es-co.wordpress.org/" title="Gestionado con WordPress, una avanzada plataforma semántica de publicación personal.">WordPress.org</a></li>			</ul>
@@ -443,7 +516,7 @@ img.emoji {
 		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/nav-menus.php">Menús</a>		</li>
 		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/themes.php?page=custom-background">Fondo</a>		</li>
 		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/themes.php?page=custom-header">Cabecera</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2FCursoWordpress%2F">Personalizar</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2FCursoWordpress%2Fnoticias%2F">Personalizar</a>		</li>
 		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/update-core.php" title="1 actualización de plugin, 1 Actualización tema"><span class="ab-icon"></span><span class="ab-label">2</span><span class="screen-reader-text">1 actualización de plugin, 1 Actualización tema</span></a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comentarios están esperando moderación</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost/CursoWordpress/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">Nuevo</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
@@ -454,19 +527,19 @@ img.emoji {
 		<li id="wp-admin-bar-new-viaje"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/post-new.php?post_type=viaje">Viajes</a>		</li>
 		<li id="wp-admin-bar-new-ruta"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/post-new.php?post_type=ruta">Rutas</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/user-new.php">Usuario</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/post.php?post=2&#038;action=edit">Editar página</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/post.php?post=73&#038;action=edit">Editar página</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
 		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/CursoWordpress/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar"/></form></div>		</li>
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost/CursoWordpress/wp-admin/profile.php">Hola, <span class="display-name">admin</span><img alt='' src='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost/CursoWordpress/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c081b7e3be1f3c6b2ccf8fde82d0136d?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>admin</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost/CursoWordpress/wp-admin/profile.php">Editar mi perfil</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=9f3f4ec5f5">Cerrar sesión</a>		</li>
-		<li id="wp-admin-bar-switch-off"><a class="ab-item" href="http://localhost/CursoWordpress/wp-login.php?action=switch_off&#038;nr=1&#038;_wpnonce=677ab44ef3&#038;redirect_to=http%3A%2F%2Flocalhost%2FCursoWordpress%2F">Switch Off</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=9f3f4ec5f5">Cerrar sesión</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=96ba14c2fe">Cerrar sesión</a>		</li>
+		<li id="wp-admin-bar-switch-off"><a class="ab-item" href="http://localhost/CursoWordpress/wp-login.php?action=switch_off&#038;nr=1&#038;_wpnonce=5fa0a2d1b9&#038;redirect_to=http%3A%2F%2Flocalhost%2FCursoWordpress%2Fnoticias%2F">Switch Off</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/CursoWordpress/wp-login.php?action=logout&#038;_wpnonce=96ba14c2fe">Cerrar sesión</a>
 					</div>
 
 		
 </body>
 </html>
 
-<!-- Dynamic page generated in 0.975 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-05-11 19:34:09 -->
+<!-- Dynamic page generated in 0.446 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-05-11 19:55:37 -->
